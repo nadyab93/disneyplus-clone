@@ -15,7 +15,7 @@ A DisneyPlus clone project built using React.js and Tailwind CSS, following a tu
 - Tailwind CSS
 
 # Credits
-This project was created following a tutorial by TubeGuruji on YouTube.
+This project was created following a tutorial by [TubeGuruji](https://www.youtube.com/watch?v=3NHYl0Lo74A) on YouTube.
 
 # License
 This project is licensed under the MIT License. See the LICENSE file for details.
